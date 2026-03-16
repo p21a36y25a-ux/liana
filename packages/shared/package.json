@@ -1,0 +1,15 @@
+{
+  "name": "@liana/shared",
+  "version": "1.0.0",
+  "description": "Shared types and constants for Liana HR WebApp",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "lint": "eslint src --ext .ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

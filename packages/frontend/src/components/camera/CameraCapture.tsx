@@ -85,7 +85,7 @@ const CameraCapture: React.FC<CameraCapture> = ({ onCapture, onClose }) => {
       stopCamera();
       setTimeout(startCamera, 100);
     }
-  }, [facingMode, isStreaming, startCamera, stopCamera]);
+  }, [isStreaming, startCamera, stopCamera]);
 
   React.useEffect(() => {
     startCamera();

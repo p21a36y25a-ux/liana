@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/setupTests.ts","./src/types.ts","./src/__tests__/FrameworkList.test.tsx","./src/components/FrameworkCard.tsx","./src/components/FrameworkDetail.tsx","./src/components/FrameworkList.tsx"],"version":"5.9.3"}
